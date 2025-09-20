@@ -1,2 +1,20 @@
-# kent_chan
-Hi, I am Kent, an aspiring data enthusiast driven by a curiosity for how data shapes the world. I will be sharing some work I did to exercise my abilities in data manipulation, analysis, and storytelling. I intend to deepen my knowledge in other areas of data like machine learning and artificial intelligence in the near future.
+### Hi there 👋
+
+I am Kent and I am passionate about leveraging data to solve real-world problems and tell compelling stories.
+---
+
+### Featured Project
+
+#### HDB Resale Price Analysis
+This project explores public housing resale flats in Singapore and I used Python, Pandas, Matplotlib, PostgreSQL to perform data cleaning, analysis, and visualisation.
+
+- **Repository Link**: [Link to your project repository]
+
+---
+
+### Future Projects
+I'm currently expanding my skills in the field of data such as machine learning and plan to apply them in future projects.
+
+---
+
+### Let's Connect!
